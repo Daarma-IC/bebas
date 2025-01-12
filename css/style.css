@@ -1,0 +1,11 @@
+.contact-item img {
+    max-width: 40px; /* Maksimal lebar ikon */
+    max-height: 40px; /* Maksimal tinggi ikon */
+    margin: 5px; /* Spasi antar ikon */
+}
+
+  /* Tambahan opsional: mengatur tampilan responsif */
+.contact-item {
+    display: inline-block; /* Membuat ikon berbaris secara horizontal */
+}
+
